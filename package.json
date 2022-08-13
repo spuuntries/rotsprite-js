@@ -1,0 +1,13 @@
+{
+  "name": "rotsprite-js",
+  "version": "0.0.1-alpha",
+  "description": "JS implementation of Rotsprite.",
+  "main": "index.js",
+  "repository": "https://github.com/spuuntries/rotsprite-js.git",
+  "author": "spuun <kek@spuun.art>",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
+}
